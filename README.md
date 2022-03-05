@@ -16,3 +16,5 @@ vue图形验证码
 | dotColorMax        | 干扰点颜色色值最大值，最大为255 | number | 255    |
 | contentWidth       | 画布宽度                        | number | 160    |
 | contentHeight      | 画布高度                        | number | 40     |
+| lineNum       | 干扰线数量                        | number | 3    |
+| dotNum      | 干扰点数量                        | number | 50     |
